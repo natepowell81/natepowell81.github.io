@@ -11,8 +11,5 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 
 ### [Research](research.md)
 
-### [My CV](/_images/CV.pdf)
+### [My CV](https://drive.google.com/file/d/0B1eDcf0MpSiWRHdXSFdZLWxiVWs/view?usp=sharing)
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B1eDcf0MpSiWRHdXSFdZLWxiVWs/view?usp=sharing" width="100%" height="768"></iframe>
-
-[CV](https://drive.google.com/file/d/0B1eDcf0MpSiWRHdXSFdZLWxiVWs/view?usp=sharing)
