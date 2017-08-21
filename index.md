@@ -1,6 +1,7 @@
 ## Welcome!
 
-![me](https://natepowell81.github.io/_images/me.png)
+![Image of me][me]
+[me](https://natepowell81.github.io/_images/me.png)
 
 
 I am Nate Powell, I am currently a second year doctoral student in the cognitive science department at Rensselaer Polytechnic Institute. I work in Dr. Brett Fajen's laboratory focusing on perception and action, more specifically computational modeling of complex behavior and brain dynamics. 
