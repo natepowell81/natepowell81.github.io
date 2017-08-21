@@ -12,4 +12,4 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 ### [Research](research.md)
 
 ### [My CV](_images/CV.pdf)
-<img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/CV.pdf?raw=true>
+[CV]<img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/CV.pdf?raw=true>
