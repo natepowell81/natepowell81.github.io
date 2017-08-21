@@ -13,10 +13,3 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 
 ### [My CV](https://drive.google.com/file/d/0B1eDcf0MpSiWRHdXSFdZLWxiVWs/view?usp=sharing)
 
-{% if site.twitter_username %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a>
-  </li>
-{% endif %}
