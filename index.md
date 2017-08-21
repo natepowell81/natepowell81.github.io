@@ -1,6 +1,8 @@
 ## Welcome!
 
 
+![image](_images/me.png)
+
 <img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/me.png" width="256">
 
 
