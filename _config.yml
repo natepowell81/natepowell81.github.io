@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: Nate Powell
-description: Doctoral student at Rensslaer Polytechnic Institute - [email]<poweln@rpi.edu>
+email: poweln@rpi.edu
+description: Doctoral student at Rensslaer Polytechnic Institute 
 baseurl: /natepowell81.github.io
+
+gems:
+    - jekyll-pdf
