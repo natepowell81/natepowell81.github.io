@@ -1,6 +1,6 @@
 ## Welcome!
 
-![Image of Nate Powell]
+![Image of me]
 (natepowell81.github.io/_images/me.png)
 
 
