@@ -6,6 +6,9 @@ baseurl: /natepowell81.github.io
 
 gems:
     - jekyll-pdf
+    
+plugins:
+  - jekyll-feed
 
 
 # Social Sharing
