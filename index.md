@@ -11,4 +11,4 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 
 ### <a href="mycv.html" title="Research">Research</a>
 
-### [My CV](/_images/CV.pdf)
+### [My CV](natepowell81.github.io/_images/CV.pdf)
