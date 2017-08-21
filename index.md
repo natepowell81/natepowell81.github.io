@@ -18,5 +18,6 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 
 
 [Twitter](https://twitter.com/nvpowell)
+
 [LinkedIn](https://www.linkedin.com/in/nathaniel-powell-423b0988)
 
