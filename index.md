@@ -12,3 +12,4 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 ### [Research](research.md)
 
 ### [My CV](/_images/CV.pdf)
+<li><a target="_blank" href="/_images/CV.pdf">CV (PDF)</a></li>
