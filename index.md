@@ -20,6 +20,5 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 [LinkedIn](https://www.linkedin.com/in/nathaniel-powell-423b0988)
 
 
-### My Dog Frejya
 
 <img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/20265038_10207838334116466_781244242061053389_n.jpg?raw=true" width="256">
