@@ -7,8 +7,7 @@
 
 Broadly I am interested in human sensorimotor behavior and the coupled dynamics between human (and non-human) action capabilities and perceptual mechanisms. 
 
-<img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/httpatomoreillycomsourceoreillyimages2160401.png.jpg?raw=true
-" width="256">
+<img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/httpatomoreillycomsourceoreillyimages2160401.png.jpg?raw=true" width="256">
 
 ### Computational Neuroscience
 
