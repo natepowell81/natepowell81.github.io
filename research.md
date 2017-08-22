@@ -16,5 +16,11 @@ I am interested in accurate representations of neuronal activity, from single ce
 I am interested in how the above ideas can provide biological innovation and influence further research in artificial intelligence. In the past I have worked on modeling minimal cognitive abilities in evolved (virtual) robots. It was previously shown that manipulating objects allowed for faster recognition of its category. We furthered this by introducing uncertainty about what the robot *thought* the object's category was. The results showed that as the robot moved and manipulated the objects its level of uncertainty decreased, allowing for more accurate classifications of objects. 
 
 
+### Publications:
+
+[N Powell & JC Bongard (2016)
+Exploring uncertainty and movement in categorical perception using robots.
+Procs of the Parallel Problem Solving from Nature (PPSN) Conference, Edinburgh, UK.](https://drive.google.com/file/d/0B1eDcf0MpSiWdzFwdGdncGtnNTg/view?usp=sharing)
+
 
 [back](https://natepowell81.github.io)
