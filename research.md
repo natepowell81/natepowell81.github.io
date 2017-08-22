@@ -19,7 +19,7 @@ I am interested in how the above ideas can provide biological innovation and inf
 
 ### Other
 
-In addition what has already been stated, I am interested in implementing statistical and graphical models. The use of deep models in cognitive science is very beneficial and can help find patterns were we (as humans) fail to do so. [.]
+In addition what has already been stated, I am interested in implementing statistical and graphical models. The use of deep models in cognitive science is very beneficial and can help find patterns were we (as humans) fail to do so. [.](csns.md)
 
 ### Publications:
 
