@@ -7,6 +7,9 @@
 
 Broadly I am interested in human sensorimotor behavior and the coupled dynamics between human (and non-human) action capabilities and perceptual mechanisms. 
 
+<img src="https://github.com/natepowell81/natepowell81.github.io/blob/master/_images/httpatomoreillycomsourceoreillyimages2160401.png.jpg?raw=true
+" width="256">
+
 ### Computational Neuroscience
 
 I am interested in accurate representations of neuronal activity, from single cell recordings to the interactions between areas of the brain. Modeling neural activity is one way of providing evidence for plausible mechanisms by which perception and action occur. Currently I am curious about the role of prediction in the brain and whether or not it has an influence on perception or not. 
