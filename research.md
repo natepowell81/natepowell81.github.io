@@ -15,6 +15,9 @@ I am interested in accurate representations of neuronal activity, from single ce
 
 I am interested in how the above ideas can provide biological innovation and influence further research in artificial intelligence. In the past I have worked on modeling minimal cognitive abilities in evolved (virtual) robots. It was previously shown that manipulating objects allowed for faster recognition of its category. We furthered this by introducing uncertainty about what the robot *thought* the object's category was. The results showed that as the robot moved and manipulated the objects its level of uncertainty decreased, allowing for more accurate classifications of objects. 
 
+### Other
+
+In addition what has already been stated, I am interested in implementing statistical and graphical models. The use of deep models in cognitive science is very beneficial and can help find patterns were we (as humans) fail to do so. 
 
 ### Publications:
 
