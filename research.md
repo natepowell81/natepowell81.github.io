@@ -11,7 +11,7 @@ Broadly I am interested in human sensorimotor behavior and the coupled dynamics 
 
 ### Computational Neuroscience
 
-I am interested in biologically plausible representations of neuronal activity, from single cell recordings to the interactions between areas of the brain. Modeling neural activity is one way of providing evidence for plausible mechanisms by which perception and action are implemented within human neural substrates. Currently I am curious about the role of prediction in the brain and whether or not it has an influence on perception or not. 
+I am interested in biologically plausible representations of neuronal activity, from single cell recordings to the interactions between areas of the brain. Modeling neural activity is one way of providing evidence for plausible mechanisms by which perception and action are implemented within human neural substrates. Currently I am curious about the role of prediction in the brain and whether or not it has an influence on perceptual and action capabilities. 
 
 ### Artificial Intelligence & Robotics
 
