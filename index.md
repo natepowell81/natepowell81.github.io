@@ -13,7 +13,7 @@ I received my bachelor's degree in Psychology and Philosophy from Binghamton Uni
 
 ### [Research](research.md)
 
-### [My CV](https://drive.google.com/file/d/0B1eDcf0MpSiWRHdXSFdZLWxiVWs/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/1woP6EBTC1S3X5XMsPKtV2Z4U-bUINcAA/view?usp=sharing)
 
 [Twitter](https://twitter.com/nvpowell)
 
